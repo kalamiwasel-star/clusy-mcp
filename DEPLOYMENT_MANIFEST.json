@@ -1,0 +1,17 @@
+{
+  "package": "CLUSY MCP",
+  "version": "1.0-deployment",
+  "source": "/mnt/workspace/clusy_agent/core/clusy_mcp_server_v1.py",
+  "source_sha256": "960040b2f71af72e18fd947561d357f135e2ce95ca9a50f81771d9cd8e7e78d7",
+  "github_target": "https://github.com/kalamiwasel-star/clusy-mcp",
+  "push_performed": false,
+  "scientific_execution": false,
+  "scientific_data_modified": false,
+  "secrets_included": false,
+  "files": [
+    ".gitignore",
+    "README.md",
+    "clusy_mcp_server.py",
+    "requirements.txt"
+  ]
+}

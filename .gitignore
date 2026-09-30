@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Secrets
+.env
+.env.*
+*.pem
+*.key
+
+# CLUSY local state
+mnt/
+workspace/
+results/
+audit/
+dry_runs/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
